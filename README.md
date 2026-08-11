@@ -26,7 +26,6 @@ For this task, the Titanic dataset was selected. The dataset contains informatio
 * Checked for missing values.
 * Handled missing Age values using the median.
 * Handled missing Embarked values using the mode.
-* Removed the Cabin column because of a large number of missing values.
 * Checked and removed duplicate records.
 * Converted categorical columns into appropriate data types.
 
